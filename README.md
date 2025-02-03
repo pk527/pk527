@@ -52,3 +52,60 @@ Hello! I'm **Kanmanivishwaa Paramasivam**, a passionate **Data Analyst & Enginee
 </div>
 
 ###
+
+# GitHub Profile Animations
+
+Here are some cool animations you can use to enhance your GitHub profile!
+
+---
+
+## 1. **Loading Spinner**
+![Loading Spinner](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/assets/spinner.gif)
+
+---
+
+## 2. **Typing Animation**
+![Typing Animation](https://media.giphy.com/media/4oKkq9u0h1PtStirXZ/giphy.gif)
+
+---
+
+## 3. **Rocket Launch**
+![Rocket Launch](https://raw.githubusercontent.com/akshaykumar18/akshaykumar18/master/assets/rocket_launch.gif)
+
+---
+
+## 4. **Coding in Action**
+![Coding](https://media.giphy.com/media/J1inBf1ldYYmI/giphy.gif)
+
+---
+
+## 5. **Pixelated Heart Beat**
+![Heart Beat](https://media.giphy.com/media/Wf5VsJPwOs04ZGWeZl/giphy.gif)
+
+---
+
+## 6. **GitHub Contribution**
+![GitHub Contributions](https://github.com/akshaykumar18/akshaykumar18/blob/master/assets/github_contribution.gif)
+
+---
+
+## 7. **CSS Animations in Action**
+![CSS Animations](https://media.giphy.com/media/yoJCflmznPSMi/giphy.gif)
+
+---
+
+## 8. **Matrix Code**
+![Matrix Code](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+---
+
+## 9. **Glitch Effect**
+![Glitch Effect](https://media.giphy.com/media/xT0GqGBwZ9ACQ3Uw5W/giphy.gif)
+
+---
+
+## 10. **Coding Progress**
+![Coding Progress](https://media.giphy.com/media/fYEDh2ozG6KZu/giphy.gif)
+
+---
+
