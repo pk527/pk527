@@ -2,6 +2,7 @@
 ![Data Animation](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)  
 
 
+
 ## 🚀 About Me  
 
 Hello! I'm **Kanmanivishwaa Paramasivam**, a passionate **Data Analyst & Engineer** based in Exeter, United Kingdom. I specialize in extracting insights from complex datasets and turning them into meaningful business solutions.
@@ -36,16 +37,8 @@ Hello! I'm **Kanmanivishwaa Paramasivam**, a passionate **Data Analyst & Enginee
 
 
 📈 **GitHub Stats**:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pk527&show_icons=true&theme=tokyonight)  
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pk527&theme=holi&hide_border=false)
-
-💡 **Most Used Languages**:  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pk527&layout=compact&theme=tokyonight)  
-
----
-
-<img src="https://raw.githubusercontent.com/pk527/pk527/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -54,6 +47,10 @@ Hello! I'm **Kanmanivishwaa Paramasivam**, a passionate **Data Analyst & Enginee
 </div>
 
 ###
+
+
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pk527&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
