@@ -47,6 +47,12 @@ Hello! I'm **Kanmanivishwaa Paramasivam**, a passionate **Data Analyst & Enginee
 
 ---
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pk527&show_icons=true&locale=en&layout=compact" alt="pk527" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pk527&" alt="pk527" /></p>
 
 
