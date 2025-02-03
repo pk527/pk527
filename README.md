@@ -1,12 +1,11 @@
 # 🌟 Welcome to My GitHub Universe! 🚀
+![Data Animation](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=pk527&label=Visitors&color=blueviolet&style=plastic)
-
-![GitHub Header Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ## 🚀 About Me  
 
 Hello! I'm **Kanmanivishwaa Paramasivam**, a passionate **Data Analyst & Engineer** based in Exeter, United Kingdom. I specialize in extracting insights from complex datasets and turning them into meaningful business solutions.
+![Profile Views](https://komarev.com/ghpvc/?username=pk527&label=Visitors&color=blueviolet&style=plastic)
 
 - 🎯 **Focused On:** Data Analytics, Machine Learning & Cloud Computing  
 - 💡 **Currently Building:** Power BI Dashboards & Data Engineering Projects  
@@ -49,18 +48,5 @@ Hello! I'm **Kanmanivishwaa Paramasivam**, a passionate **Data Analyst & Enginee
 ---
 
 
-
-## ✨ Fun Animations  
-
-🎯 **Work in Progress Animation:**  
-![Work in Progress](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)  
-
-💡 **Thinking About Data:**  
-![Data Animation](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)  
-
-🚀 **Power BI Dashboard in Action:**  
-![Power BI Animation](https://media.giphy.com/media/UoeaPqYrimha6rdTFV/giphy.gif)  
-
----
 
 
