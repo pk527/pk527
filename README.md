@@ -2,7 +2,7 @@
    ![Matrix Code](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/pk527/count.svg?"  />
 </div>
 
