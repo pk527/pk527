@@ -1,5 +1,5 @@
 # 🌟 Welcome to My GitHub Universe! 🚀
-![Data Animation](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)   ![Matrix Code](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+   ![Matrix Code](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 ###
 
 <div align="center">
