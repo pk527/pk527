@@ -13,7 +13,7 @@
 
 ## 🚀 About Me  
 
-Hello! I'm **Kanmanivishwaa Paramasivam**, a passionate **Data Analyst & Engineer** based in Exeter, United Kingdom. I specialize in extracting insights from complex datasets and turning them into meaningful business solutions.
+Hello! I'm **Kanmanivishwaa Paramasivam**, a passionate **Data Analyst & Engineer** based in Chennai , India. I specialize in extracting insights from complex datasets and turning them into meaningful business solutions.
 ![Profile Views](https://komarev.com/ghpvc/?username=pk527&label=Visitors&color=blueviolet&style=plastic)
 
 - 🎯 **Focused On:** Data Analytics, Machine Learning & Cloud Computing  
@@ -41,7 +41,7 @@ Hello! I'm **Kanmanivishwaa Paramasivam**, a passionate **Data Analyst & Enginee
 
 📈 **GitHub Stats**:  
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pk527&theme=holi&hide_border=false)
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=pk527&theme=holi&hide_border=false)
 
 ###
 <div align="center">
