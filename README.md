@@ -21,7 +21,7 @@ Hello! I'm **Kanmanivishwaa Paramasivam**, a passionate **Data Analyst & Enginee
 - 🌱 **Learning & Growing In:** AWS, Advanced R Programming & Deep Learning  
 - 🤝 **Love Collaborating On:** Predictive Analytics, Big Data & AI Solutions  
 - 💬 **Let's Talk About:** Business Intelligence, Database Optimization & AI  
-- 📫 **Reach Me At:** [kanmanivishwaa@gmail.com](mailto:paramasivamvishwaa@gmail.com)  
+- 📫 **Reach Me At:** [paramasivamvishwaa@gmail.com]
 
 ---
 ## 🌐 Let's Connect  
